@@ -2,14 +2,14 @@
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog]()
 
-I'm a former Hospitality Site Manager with a passion for soft development who has decided to learn how to code at Makers Academy. I've led business projects during my last employment at Elior UK being in charge of the mobilisation project.With extensive experience in events management and the hospitality industry, I am very driven and with exceptional project management, communication and negotiation skills. However now I would like to use my analysis and problem solving skills to build web applications.  
+I'm a former Hospitality Site Manager with a passion for soft development who has decided to learn how to code at Makers Academy. I've led business projects during my last employment at Elior UK being in charge of the mobilisation project.With extensive experience in events management and the hospitality industry, I am very driven and with exceptional project management, communication and negotiation skills. However now I would like to use my analysis and problem solving skills to start building web applications.  
 
 ## Skills
 
 
 #### Delivery/Business management
 
-I have planned led several projects and events, Amongst all the elior mobilisation from the West end to the City of London, I was able to prioritise work, identifying resources needed, and keep the costs within budget.
+I have planned and led several projects and events, Amongst all the elior mobilisation from the West end to the City of London, I was able to prioritise work, identifying resources needed, and keep the costs within budget.
 During this project my line manger praised my work several time highlighting my focus towards the end goal and my guidance offered to the rest of the team. This resulted in delivering the opening of the building on time and with a successful opening ceremony.
 
 #### Profit and loss / Budgeting management
@@ -62,7 +62,7 @@ Successfully coordinating the overall operations of the events such as venue set
 
 #### Makers Academy (August 2018 to November 2018)
 
-A 16-week intensive development bootcamp, emphasizing:
+A 16-week intensive development bootcamp, focusing on:
 - Pair-programming
 - Test Driven Development
 - Object Oriented Design
@@ -76,11 +76,11 @@ A 16-week intensive development bootcamp, emphasizing:
 
 - English Cambridge Advanced Certificate
 
-### Computing Programming (Italy 1996-2001)
+#### Computing Programming (Italy 1996-2001)
 
 - Diploma A-level equivalent,
 
 
 ## Interests
 
-Wold travelling and practising sports are my favourites,(football amongst all) with the ambition to turn a passion such as coding into a way of life.
+World travelling and practising sports are my favourites,(football amongst all) with the ambition to turn a passion such as coding into a way of life.
