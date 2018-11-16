@@ -1,6 +1,7 @@
 ## Antonio D'aria
+[Twitter](https://twitter.com/antonio_daria) | [Linkedin](https://www.linkedin.com/in/antonio-d-aria-59383046/)
 
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog]()
+[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@antoniodaria)
 
 I'm a former Hospitality Site Manager with a passion for soft development who has decided to learn how to code at Makers Academy. I've led business projects during my last employment at Elior UK being in charge of the mobilisation project.With extensive experience in events management and the hospitality industry, I am very driven and with exceptional project management, communication and negotiation skills. However now I would like to use my analysis and problem solving skills to start building web applications.  
 
@@ -62,11 +63,17 @@ Successfully coordinating the overall operations of the events such as venue set
 
 #### Makers Academy (August 2018 to November 2018)
 
-A 16-week intensive development bootcamp, focusing on:
+A 16-week intensive development bootcamp in London:
 - Pair-programming
 - Test Driven Development
+- MVC architecture
 - Object Oriented Design
-- Agile
+- Agile/XP
+- Languages: Ruby, Javascript, Nodejs, HTML, CSS
+- Frameworks: Rails, Express
+- Testing frameworks: RSpec, Capybara, Jasmine
+- Continuous Integration: Travis CI
+- Deployment: Heroku
 
 #### University of Greenwich (September 2009 to July 2012)
 
