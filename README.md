@@ -36,6 +36,11 @@ Conducting staff appraisals, overseeing staff training and development including
 
 ## Projects
 
+| Project | Timeframe | Description | Technology | Testing framework |
+| --------| ----------| ------------| -----------| ------------------|
+| [Bank Tech Test]() | 2 days | Makers Tech Test using TDD, OOP. | Ruby | RSpec |
+| [Acebook](https://github.com/AntonioDaria/acebook-rails-the-spartans) | 2 weeks | Our second team project focusing on engineering. The full stack rails app is deployed on heroku [here](https://acebook-the-spartans.herokuapp.com/users/sign_in). | Ruby, Rails, PostgreSQL | RSpec, Capybara |
+| [Wardrobe-app]() | 2 weeks | Our final project. Desktop app that aims to help people find clothes that match, which reduces time spent getting ready in the morning, The app is deployed on heroku [here](https://acebook-the-spartans.herokuapp.com/users/sign_in) | Ruby, Rails, PostgreSQL | Rspec, Capybara |
 
 ## Experience
 
