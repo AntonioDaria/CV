@@ -3,7 +3,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@antoniodaria)
 
-I'm a former Hospitality Site Manager with a passion for soft development who has decided to learn how to code at Makers Academy. I've led business projects during my last employment at Elior UK being in charge of the mobilisation project.With extensive experience in events management and the hospitality industry, I am very driven and with exceptional project management, communication and negotiation skills. However now I would like to use my analysis and problem solving skills to start building web applications.  
+I'm a junior full stack software developer and former Hospitality Site Manager who has recently graduated from [Makers](https://makers.tech/). I've led business projects during my last employment at Elior UK being in charge of the mobilisation project.With extensive experience in events management and the hospitality industry, I am very driven and with exceptional project management, communication and negotiation skills. However now I would like to use my analysis and problem solving skills to start building web applications.  
 
 ## Skills
 
@@ -33,6 +33,7 @@ Conducting staff appraisals, overseeing staff training and development including
 
 - Analytical
 - Full event planning cycle
+- Collaborative working
 
 ## Projects
 
@@ -40,7 +41,7 @@ Conducting staff appraisals, overseeing staff training and development including
 | --------| ----------| ------------| -----------| ------------------|
 | [Bank Tech Test]() | 2 days | Makers Tech Test using TDD, OOP. | Ruby | RSpec |
 | [Acebook](https://github.com/AntonioDaria/acebook-rails-the-spartans) | 2 weeks | Our second team project focusing on engineering. The full stack rails app is deployed on heroku [here](https://acebook-the-spartans.herokuapp.com/users/sign_in). | Ruby, Rails, PostgreSQL | RSpec, Capybara |
-| [Wardrobe-app]() | 2 weeks | Our final project. Desktop app that aims to help people find clothes that match, which reduces time spent getting ready in the morning, The app is deployed on heroku [here](https://acebook-the-spartans.herokuapp.com/users/sign_in) | Ruby, Rails, PostgreSQL | Rspec, Capybara |
+| [Wardrobe-app]() | 2 weeks | Our final project. Desktop app that aims to help people find clothes that match, which reduces time spent getting ready in the morning, The app is deployed on heroku [here](https://clueless-wardrobe.herokuapp.com/users/sign_in) | Ruby, Rails, JS, PostgreSQL | Rspec, Capybara |
 
 ## Experience
 
