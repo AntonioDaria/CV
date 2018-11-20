@@ -3,7 +3,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@antoniodaria)
 
-I'm a junior full stack software developer and former Hospitality Site Manager who has recently graduated from [Makers](https://makers.tech/). I've led business projects during my last employment at Elior UK being in charge of the mobilisation project.With extensive experience in events management and the hospitality industry, I am very driven and with exceptional project management, communication and negotiation skills. However now I would like to use my analysis and problem solving skills to start building web applications.  
+I'm a junior full stack software developer and former Hospitality Site Manager who has recently graduated from [Makers](https://makers.tech/). I've led business projects during my last employment at Elior UK being in charge of the mobilisation project. With extensive experience in events management and the hospitality industry, I am a very driven individual with exceptional project management, communication and negotiation skills. However now I would like to use my analysis and problem solving skills to start building web applications and finally reach my goal to work in the tech industry.  
 
 ## Skills
 
