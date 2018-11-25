@@ -41,7 +41,7 @@ Conducting staff appraisals, overseeing staff training and development including
 | --------| ----------| ------------| -----------| ------------------|
 | [Bank Tech Test](https://github.com/AntonioDaria/Bank_tech_test)| 2 days | Makers Tech Test using TDD, OOP. | Ruby | RSpec |
 | [Acebook](https://github.com/AntonioDaria/acebook-rails-the-spartans) | 2 weeks | Our second team project focusing on engineering. The full stack rails app is deployed on heroku [here](https://acebook-the-spartans.herokuapp.com/users/sign_in). | Ruby, Rails, PostgreSQL | RSpec, Capybara |
-| [Wardrobe-app](https://github.com/cristinaocanamanzano/wardrobe-app) | 2 weeks | Our final project. Desktop app that aims to help people find clothes that match, which reduces time spent getting ready in the morning, Demo of the app to come soon [here]() | Ruby, Rails, JS, PostgreSQL | Rspec, Capybara |
+| [Wardrobe-app](https://github.com/AntonioDaria/wardrobe-app) | 2 weeks | Our final project. Desktop app that aims to help people find clothes that match, which reduces time spent getting ready in the morning, Demo of the app to come soon [here]() | Ruby, Rails, JS, PostgreSQL | Rspec, Capybara |
 | [Python FizzBuzz](https://github.com/AntonioDaria/fizz-buzz )| 1 day | FizzBuzz Challenge using TDD. | Python | Unittest |
 
 ## Experience
