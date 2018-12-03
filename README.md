@@ -11,7 +11,7 @@ I'm a junior full stack software developer and former Hospitality Site Manager w
 #### Delivery/Business management
 
 I have planned and led several projects and events, Amongst all the elior mobilisation from the West end to the City of London, I was able to prioritise work, identifying resources needed, and keep the costs within budget.
-During this project my line manger praised my work several time highlighting my focus towards the end goal and my guidance offered to the rest of the team. This resulted in delivering the opening of the building on time and with a successful opening ceremony.
+During this project my line manager praised my work several time highlighting my focus towards the end goal and my guidance offered to the rest of the team. This resulted in delivering the opening of the building on time and with a successful opening ceremony.
 
 #### Profit and loss / Budgeting management
 
@@ -41,7 +41,7 @@ Conducting staff appraisals, overseeing staff training and development including
 | --------| ----------| ------------| -----------| ------------------|
 | [Bank Tech Test](https://github.com/AntonioDaria/Bank_tech_test)| 2 days | Makers Tech Test using TDD, OOP. | Ruby | RSpec |
 | [Acebook](https://github.com/AntonioDaria/acebook-rails-the-spartans) | 2 weeks | Our second team project focusing on engineering. The full stack rails app is deployed on heroku [here](https://acebook-the-spartans.herokuapp.com/users/sign_in). | Ruby, Rails, PostgreSQL | RSpec, Capybara |
-| [Wardrobe-app](https://github.com/AntonioDaria/wardrobe-app) | 2 weeks | Our final project. Desktop app that aims to help people find clothes that match, which reduces time spent getting ready in the morning, Demo of the app to come soon [here](https://drive.google.com/drive/folders/1rMYzOCJCR6hGfcIrFAxVxz0dcGab-Cz5?ogsrc=32) | Ruby, Rails, JS, PostgreSQL | Rspec, Capybara |
+| [Wardrobe-app](https://github.com/AntonioDaria/wardrobe-app) | 2 weeks | Our final project. Desktop app that aims to help people find clothes that match, which reduces time spent getting ready in the morning. The demo of the app can be found [here](https://drive.google.com/drive/folders/1rMYzOCJCR6hGfcIrFAxVxz0dcGab-Cz5?ogsrc=32) | Ruby, Rails, JS, PostgreSQL | Rspec, Capybara |
 | [Python FizzBuzz](https://github.com/AntonioDaria/fizz-buzz )| 1 day | FizzBuzz Challenge using TDD. | Python | Unittest |
 
 ## Experience
@@ -55,7 +55,7 @@ Budget management-Weekly account closing
 *Events Manager*  
 Planning and overseeing the provision of all the meeting rooms and events spaces including large conference space up to 200 delegates, as well as providing working lunches and buffets.
 
-**Delaware North Companies** (January2010 to February 2014)  
+**Delaware North Companies** (January 2010 to February 2014)  
 *Conference and Banqueting Manager*  
 Responsible of overseeing corporate suites, ensuring a high quality of service was provided to key sponsors and stakeholders.Coordinating a team of up to 20 members of staff to provide catering and services for 20 corporate suites.
 
