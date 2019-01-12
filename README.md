@@ -24,7 +24,7 @@ I'm a junior full stack software developer and former Hospitality Site Manager w
 Developing a research repository pilot for the British Library and four UK cultural and heritage partner institutions: the British Museum, Tate, National Museums Scotland and Museum of London Archaeology (MOLA); using [Samvera Hyku] (https://github.com/samvera-labs/hyku), a Ruby-on-Rails software.
 Hyku is a complex app with several layers of services, deployed using latest container technology.
 Working knowledge of:
-- Ruby, and Rails components and gems
+- Ruby on Rails
 - HTML, CSS, YAML, Bash
 - Debugging
 - Git and GitHub
