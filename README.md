@@ -15,7 +15,7 @@ I'm a junior full stack software developer and former Hospitality Site Manager w
 | [Acebook](https://github.com/AntonioDaria/acebook-rails-the-spartans) | 2 weeks | Our second team project focusing on engineering. The full stack rails app is deployed on heroku [here](https://acebook-the-spartans.herokuapp.com/users/sign_in). | Ruby, Rails, PostgreSQL | RSpec, Capybara |
 | [Wardrobe-app](https://github.com/AntonioDaria/wardrobe-app) | 2 weeks | Our final project. Desktop app that aims to help people find clothes that match, which reduces time spent getting ready in the morning. The demo of the app can be found [here](https://drive.google.com/drive/folders/1rMYzOCJCR6hGfcIrFAxVxz0dcGab-Cz5?ogsrc=32) | Ruby, Rails, JS, PostgreSQL | Rspec, Capybara |
 | [Python FizzBuzz](https://github.com/AntonioDaria/fizz-buzz )| 1 day | FizzBuzz Challenge using TDD. | Python | Unittest |
-| [BumbleBells blog app](https://github.com/AntonioDaria/My-blog-app )| 2 weeks | A blog/feedback app built for Bumblebells day nursery in Orpington. | Ruby on Rails,| test-unit |
+| [BumbleBells blog app](https://github.com/AntonioDaria/My-blog-app )| 2 weeks | A blog/feedback app built for Bumblebells day nursery in Orpington. The full stack rails app is deployed on heroku [here](https://bumble-bells-blog.herokuapp.com/).| Ruby on Rails,| test-unit |
 
 ## Experience
 
@@ -33,14 +33,17 @@ Working knowledge of:
 - Kubernetes
 - Agile practices 
 
+
 **Elior UK** (April 2016 to August 2018)    
 *Hospitality Site Manager*  
 Responsible for the overall site operations and performance financially and operationally.
 Budget management-Weekly account closing 
 
+
 **Etc. Venues** (March 2014 to April 2016)   
 *Events Manager*  
 Planning and overseeing the provision of all the meeting rooms and events spaces including large conference space up to 200 delegates, as well as providing working lunches and buffets.
+
 
 **Delaware North Companies** (January 2010 to February 2014)  
 *Conference and Banqueting Manager*  
