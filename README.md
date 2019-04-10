@@ -16,7 +16,7 @@ I'm a junior full stack software developer and former Hospitality Site Manager w
 | [Wardrobe-app](https://github.com/AntonioDaria/wardrobe-app) | 2 weeks | Our final project. Desktop app that aims to help people find clothes that match, which reduces time spent getting ready in the morning. The demo of the app can be found [here](https://drive.google.com/drive/folders/1rMYzOCJCR6hGfcIrFAxVxz0dcGab-Cz5?ogsrc=32) | Ruby, Rails, JS, PostgreSQL | Rspec, Capybara |
 | [Python FizzBuzz](https://github.com/AntonioDaria/fizz-buzz )| 1 day | FizzBuzz Challenge using TDD. | Python | Unittest |
 | [BumbleBells blog app](https://github.com/AntonioDaria/My-blog-app )| 2 weeks | A blog/feedback app built for Bumblebells day nursery in Orpington. The full stack rails app is deployed on heroku [here](https://bumble-bells-blog.herokuapp.com/).| Ruby on Rails,| test-unit |
-| [CameronCam](http://cameroncam.com/)| 4 weeks | Help us to find Mr.Cameron Our inspiration came from wanting to create something that we can all laugh at, in order to distract ourselves from our own uncertainty and future misfortune. The  React app is deployed [here](http://cameroncam.com/).| React | WIP |
+| [CameronCam](https://github.com/AntonioDaria/CameronCam)| 4 weeks | Help us to find Mr.Cameron Our inspiration came from wanting to create something that we can all laugh at, in order to distract ourselves from our own uncertainty and future misfortune. The  React app is deployed [here](http://cameroncam.com/).| React | WIP |
 
 ## Experience
 
