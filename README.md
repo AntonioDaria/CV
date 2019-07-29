@@ -17,13 +17,8 @@ I'm a junior full stack software developer and former Hospitality Site Manager w
 | [Python FizzBuzz](https://github.com/AntonioDaria/fizz-buzz )| 1 day | FizzBuzz Challenge using TDD. | Python | Unittest |
 | [BumbleBells blog app](https://github.com/AntonioDaria/My-blog-app )| 2 weeks | A blog/feedback app built for Bumblebells day nursery in Orpington. The full stack rails app is deployed on heroku [here](https://bumble-bells-blog.herokuapp.com/).| Ruby on Rails,| test-unit |
 | [CameronCam](https://github.com/AntonioDaria/CameronCam)| 4 weeks | Help us to find Mr.Cameron Our inspiration came from wanting to create something that we can all laugh at, in order to distract ourselves from our own uncertainty and future misfortune. The  React app is deployed [here](https://cameron-cam.surge.sh/).| React | WIP |
-| [Docker Test](https://github.com/AntonioDaria/Docker-test)| Half day | A simple rails app with the intent to show how we can use Docker for development| 
-    Ruby on Rails
-    Docker
-    Docker-Compose.yml
-    Postgresql
-| N/A |
-| [Rails-Rest-API](https://github.com/AntonioDaria/Rails-REST-API)| Half day |  basic back-end REST API built to perform CRUD functions.| Rails, Postgres | N/A |
+| [Docker Test](https://github.com/AntonioDaria/Docker-test)| Half day | A simple rails app with the intent to show how we can use Docker for development| Ruby on Rails, Docker, Docker-Compose.yml, Postgresql | N/A |
+| [Rails-Rest-API](https://github.com/AntonioDaria/Rails-REST-API)| Half day |  basic back-end REST API built to perform CRUD functions.| Rails, Postgresql | N/A |
 
 ## Experience
 
