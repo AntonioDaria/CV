@@ -3,7 +3,7 @@
 
 [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Skills](#skills) | [Interests](#interests) | [Blog](https://medium.com/@antoniodaria)
 
-I'm a junior full stack software developer and former Hospitality Site Manager who has recently graduated from [Makers](https://makers.tech/). I've led business projects during my last employment at Elior UK being in charge of the mobilisation project. With extensive experience in events management and the hospitality industry, I am a very driven individual with exceptional project management, communication and negotiation skills. However now I would like to use my analysis and problem solving skills to start building web applications and finally reach my goal to work in the tech industry.  
+I'm a software developer and former Hospitality Site Manager, I have jioned IBM as part of the London garage and cloud pak acceleration team. In the past year I have contributed, as Ruby on Rails developer with the Ubiquity Press team, towards the development of a digital archive for the British Library. During my time at Ubiquity press I have also acquired devops skills using technologies such as docker and kubernetes. I am a very driven individual who is very passionate about the tech industry and I am passionately continuing my journey to become a better software engineer. 
 
 
 
@@ -21,6 +21,17 @@ I'm a junior full stack software developer and former Hospitality Site Manager w
 | [Rails-Rest-API](https://github.com/AntonioDaria/Rails-REST-API)| Half day |  basic back-end REST API built to perform CRUD functions.| Rails, Postgresql | N/A |
 
 ## Experience
+
+**IBM** (Jan 2020 to Present)   
+*Cloud Software Developer*
+
+Working alongside the IBM garage team helping organization modernizing their software architecture and implementing cloud-based solutions levering technologies such as Red Hat 
+OpenShift, Kubernetes, and Docker among all. Building MVP’s using, agile techniques such as TDD, and pair programming. Currently on a project building a mobile application on both IOS and Android platform using the following tech stack:
+- Cloudant a non-relational, distributed database service based on the Apache-backed CouchDB project.
+- Node.js
+- React
+- React Native 
+- TypeScript
 
 **Ubiquity Press UK** (Jan 2019 to Present)    
 *Junior Software Developer*  
